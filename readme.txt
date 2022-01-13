@@ -1,3 +1,5 @@
+Sebuah sistem sederhana untuk manajemen surat masuk dan keluar
+
 ========================|
 role user as admin	|
 ------------------------|
